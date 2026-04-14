@@ -1,0 +1,106 @@
+site:
+  title: TALEN
+  favicon: /favicon.png
+  description: Talen 的个人主页，一个专注技术、乐于探索的代码爱好者！
+  keywords: [个人主页, 博客, 技术, 生活, 前端开发, Vue, Nuxt, 开源]
+  author: Talen
+  url: https://talen.top
+
+# 首页首屏配置
+hero:
+  badgeText: 深度学习中
+  descriptions:
+    - 前景可待 · 未来可期
+    - 前端工程师 · 业余 · 专注 · 享受生活
+    - 一个专注技术、乐于探索的代码爱好者！
+  skills:
+    - Vue.js
+    - Nuxt.js
+    - TypeScript
+    - Go
+    - Python
+    - Git
+    - Docker
+    - Linux
+  primaryAction:
+    text: 进入我的博客
+    url: https://blog.talen.top
+  socialLinks:
+    - name: GitHub
+      url: https://github.com/talen8
+      icon: ri-github-fill
+    - name: Email
+      url: mailto:talen2004@163.com
+      icon: ri-mail-line
+  rightPhoto:
+    image: /photo.jpg
+    iconA: ri-code-s-slash-line
+    iconB: ri-palette-line
+    iconC: ri-rocket-2-line
+
+# 页脚配置
+footer:
+  startYear: 2026
+  icp:
+    - label: 鲁ICP备2023049269号
+      url: https://beian.miit.gov.cn/
+    - label: 鲁公网安备37088102000500号
+      url: https://beian.mps.gov.cn/
+
+# 文章配置
+articles:
+  blogUrl: https://blog.talen.top
+  postAPI: https://api.talen.top/api/v1/articles
+  # postRSS: https://blog.talen.top/rss.xml
+  # postList:
+  #   - title: 示例文章
+  #     cover: /images/article-cover.jpg
+  #     description: 文章简介
+  #     category: 随笔
+  #     time: 2026-04-09
+  #     url: 
+
+# 网站配置
+sites:
+  - name: 爱吃猫的鱼
+    description: 记录生活感悟与知识，等你来探索
+    url: https://blog.talen.top/
+    icon: news-line
+    tag: 博客
+
+# 项目配置
+projects:
+  - talen8/StaticSiteMenu
+  - talen8/FlecBlog
+  - talen8/FlecHome
+
+# 时间线配置
+timeline:
+  - date: 2026年3月
+    title: 个人主页更名为「TALEN」
+    description: 重构为 Nuxt，在原有风格基础上重新设计
+    icon: ri-window-line
+  - date: 2026年2月
+    title: 博客平台更名为「爱吃猫的鱼」
+    description: 完成了到【FlecBlog】项目的迁移和部署
+    icon: ri-window-line
+  - date: 2025年6月
+    title: 【FlecBlog】项目完成规划
+    description: 这是我第一个体系完整、接近产品级标准的项目
+    icon: ri-code-box-line
+  - date: 2025年5月
+    title: 个人主页进行改版
+    description: 切换到了 Astro，主题为 aria
+    icon: ri-window-line
+  - date: 2024年3月
+    title: 「爱吃猫的鱼HOME」个人主页正式成立
+    description: 对 imsyy 主页项目进行了二开
+    icon: ri-window-line
+  - date: 2024年1月
+    title: 「爱吃猫的鱼BLOG」博客平台正式成立
+    description: 基于 Hexo 搭建了属于自己的个人博客
+    icon: ri-window-line
+  - date: 2020年
+    title: 首次尝试文章创作
+    description: 辗转于多个平台，内容质量低下，多为学习笔记类
+    icon: ri-article-line

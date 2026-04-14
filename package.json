@@ -1,0 +1,24 @@
+{
+  "name": "flechome",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1",
+    "nuxt": "^4.4.2",
+    "remixicon": "^4.9.1",
+    "vue": "^3.5.32"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^25.6.0",
+    "sass": "^1.99.0",
+    "typescript": "^6.0.2"
+  }
+}
