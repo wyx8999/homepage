@@ -92,12 +92,12 @@ sites:
   - name: Cedric导航
     description: 各种常用网站集合
     url: https://jyd.yuxian.xyz
-    icon: news-line
+    icon: navigation-line
     tag: 导航
   - name: Cedric's monitor
     description: 全面及时监测网站
     url: https://monitor.jyd.cc.cd
-    icon: news-line
+    icon: dashboard-line
     tag: 监测
 
 # 项目配置
