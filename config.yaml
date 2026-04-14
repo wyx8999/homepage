@@ -24,10 +24,14 @@ hero:
     - Docker
     - Linux
   primaryAction:
+<<<<<<< HEAD
     text: 个人博客
     url: https://blog.jyd.cc.cd
   primaryAction:
     text: 学习博客
+=======
+    text: 进入我的个人博客
+>>>>>>> da799662385e15dc9ceff39ba1a8fa47794adece
     url: https://zxy6.indevs.in
   socialLinks:
     - name: GitHub
