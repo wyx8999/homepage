@@ -1,7 +1,7 @@
 site:
-  title: TALEN
+  title: CEDRIC
   favicon: /favicon.png
-  description: Talen 的个人主页，一个专注技术、乐于探索的代码爱好者！
+  description: Cedric 的个人主页，一个专注技术、乐于探索的代码爱好者！
   keywords: [个人主页, 博客, 技术, 生活, 前端开发, Vue, Nuxt, 开源]
   author: Talen
   url: https://talen.top
@@ -11,9 +11,10 @@ hero:
   badgeText: 深度学习中
   descriptions:
     - 前景可待 · 未来可期
-    - 前端工程师 · 业余 · 专注 · 享受生活
+    - 业余 · 专注 · 享受生活
     - 一个专注技术、乐于探索的代码爱好者！
   skills:
+    - C++
     - Vue.js
     - Nuxt.js
     - TypeScript
@@ -23,14 +24,17 @@ hero:
     - Docker
     - Linux
   primaryAction:
-    text: 进入我的博客
-    url: https://blog.talen.top
+    text: 进入我的个人博客
+    url: https://zxy6.indevs.in
+
+    text: 进入我的学习博客
+    url: https://zxy6.indevs.in
   socialLinks:
     - name: GitHub
-      url: https://github.com/talen8
+      url: https://github.com/wyx8999
       icon: ri-github-fill
     - name: Email
-      url: mailto:talen2004@163.com
+      url: mailto:zxy@zxy6.eu.cc
       icon: ri-mail-line
   rightPhoto:
     image: /photo.jpg
@@ -41,11 +45,7 @@ hero:
 # 页脚配置
 footer:
   startYear: 2026
-  icp:
-    - label: 鲁ICP备2023049269号
-      url: https://beian.miit.gov.cn/
-    - label: 鲁公网安备37088102000500号
-      url: https://beian.mps.gov.cn/
+
 
 # 文章配置
 articles:
@@ -62,9 +62,9 @@ articles:
 
 # 网站配置
 sites:
-  - name: 爱吃猫的鱼
-    description: 记录生活感悟与知识，等你来探索
-    url: https://blog.talen.top/
+  - name: Cedric's World
+    description: 记录学习，等你来探索
+    url: https://zxy6.indevs.in
     icon: news-line
     tag: 博客
 
