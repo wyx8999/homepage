@@ -3,8 +3,8 @@ site:
   favicon: /favicon.png
   description: Cedric 的个人主页，一个专注技术、乐于探索的代码爱好者！
   keywords: [个人主页, 博客, 技术, 生活, 前端开发, Vue, Nuxt, 开源]
-  author: Talen
-  url: https://talen.top
+  author: Cedric
+  url: https://zxy6.indevs.in
 
 # 首页首屏配置
 hero:
